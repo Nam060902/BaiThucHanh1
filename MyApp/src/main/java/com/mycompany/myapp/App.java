@@ -33,8 +33,6 @@ public class App extends Application {
 
     public static void main(String[] args) {
         launch();
-        if(true) return; //cap nhap giao dien
-        int i=3;
     }
 
 }
